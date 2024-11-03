@@ -7,7 +7,7 @@ This gave us a comprehensive dataset that includes each company's headquarters l
 
 Then, we moved on to the exploratory data analysis phase. We used Python's powerful data science libraries, such as pandas and seaborn, to explore the distribution of revenue, profit, assets, and value among these companies. We also analyzed the number of companies in each industry and location and examined the correlation between different financial variables.
 
-[Click here to view the report](Uk_forbes Ranks.ipynb)
+[Click here to view the report](https://github.com/uzumstanley/Web-Scraping-and-EDA-with-Python/blob/main/Uk_forbes%20Ranks.ipynb)
 
 Here are some key insights found:
 
